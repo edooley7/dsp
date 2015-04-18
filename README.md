@@ -17,11 +17,11 @@ step.
 
 As the final step, you will work on some exercises that go along with the statistics refresher. Since they are all python based, they will allow you to both train and assess your python and statistics skills. **There are 6 required exercises.** You can submit the answers to these through email, the details are in the relevant part below.
 
-Feel free to contact us if you have any questions. Please do so 
+Feel free to contact us if you have any questions. Please do so
 through the [pre-work support thread](http://162.243.206.168/t/prework-megathread)
 on Discourse.
 
-### Installing packages 
+### Installing packages
 ###### (30 minutes)
 You will first follow the online tutorials for installing some
 critical packages that will be used in the course: command line tools,
@@ -51,7 +51,7 @@ can find out about text editors [here](editors.md).
 ### Python
 ######  (5 - 9 hours)
 We will work with Python (2.7) throughout the course, and [learning and
-getting familiar with Python](python.md) is crucial. 
+getting familiar with Python](python.md) is crucial.
 
 
 ### Statistics
@@ -60,6 +60,6 @@ Time to freshen up your statistics knowledge! We have a [guide](stats.md)
 for doing exactly that. The exercises go hand in hand with these, so please check both of them.
 
 
-### Exercises 
+### Exercises
 ######  (7 - 9 hours)
 The 6 required and 6 optional problems are listed [here](exercises.md). Try to do them while you're reading the relevant statistics chapters. It would be ideal if you could submit the answers before the first day of bootcamp. However, if you could not finish in time, you can submit them by the end of the first week. Thank you very much.

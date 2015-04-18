@@ -23,4 +23,3 @@ has been around as long as Emacs has, and shares the full-keyboard
 input philosophy, but is arguably harder to learn for a beginner. If
 you are already familiar with one of these or a different text editor
 that highlights code syntax, you are welcome to use that.
-

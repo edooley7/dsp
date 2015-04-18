@@ -40,11 +40,9 @@ is a much longer process.
 
 
 
-##### Note for experienced coders in other languages 
+##### Note for experienced coders in other languages
 If you are very confident about your programming skills and code
 almost daily, but never really coded in Python, and want to know how
 to tackle specific coding scenarios in Python, you can look into
 further chapters in Dive into Python, or use the free online resources
 listed [here](https://wiki.python.org/moin/BeginnersGuide/Programmers).
-
-

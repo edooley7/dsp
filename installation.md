@@ -33,7 +33,7 @@ Homebrew is an excellent package manager for OSX. If you don't have
 it, install it with
 
      ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-     
+
 Open the .bash_profile file in your home directory (create one if it
 doesn't exist) and add this line:
 
@@ -79,7 +79,7 @@ Use pip to install them:
 NOTE: If you encounter an error in either of these steps, try installing gfortran (a dependency) with homebrew:
 
      brew install gfortran
-     
+
 and then try again. Gfortran comes with gcc, already provided by OS X, but older versions did not have it.
 
 ### iPython and iPython notebook
@@ -114,9 +114,9 @@ Type
 to open an ipython IDE. Then test numpy, scipy and matplotlib:
 
      import numpy
-	 import scipy
-	 import statsmodels
-	 import matplotlib
+     import scipy
+     import statsmodels
+     import matplotlib
 
 There shouldn't be any errors.
 
@@ -144,7 +144,7 @@ Open up the python interpreter with
 and try importing these packages
 
      import sklearn
-	 import pandas
+     import pandas
 
 There should be no errors.
 
