@@ -4,12 +4,6 @@ These exercises are a great way to both prepare you for the bootcamp and for you
 There are 6 required and 6 optional problems. We chose them to go along with your prework statistics training. They require (and teach) both python and statistics skills. Have fun!
 
 If you can finish your work on these required exercises and submit them **before the first day of the bootcamp**, it would be perfect, and you can give your full focus and energy to the first week. However, if you were not able to finish them before then, you can still work on them during the first days and submit them **by the end of the first week**.
-In any case, please keep your instructors informed of your progress. If you have questions about the exercises or anything else, you can ask them on the [pre-work support thread] on Discourse (so others can see the answers, too). If you'd rather ask in private, you can send a PM (private message) to either instructor on Discourse, or even email them.
-
-The answers can be in any form that shows your work: it can be python files and graphs, you can paste your code and results in an email, you can attach an ipython notebook. We will accept any medium as long as we can see your answers.
-
-Once you are ready to submit, please email the results to your instructors, Irmak and Bo, at
-**irmak@datasco.pe** and **bo@datasco.pe**.
 
 
 ### Setup

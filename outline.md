@@ -14,9 +14,6 @@ step.
 
 As the final step, you will work on some exercises that go along with the statistics refresher. Since they are all python based, they will allow you to both train and assess your python and statistics skills. **There are 6 required exercises.** You can submit the answers to these through email, the details are in the relevant part below.
 
-Feel free to contact us if you have any questions. Please do so
-through the [pre-work support thread](http://162.243.206.168/t/prework-megathread)
-on Discourse.
 
 ### Installing packages
 ###### (30 minutes)
