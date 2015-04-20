@@ -24,7 +24,7 @@ Writing your answer in there and clicking on the Green **Commit changes** button
 
 ![fork](img/commit_file.png)
 
-###To submit through Github
+###To submit through the terminal
 
 __*CLI knowledge is necessary*__
 
@@ -34,7 +34,7 @@ This will give you an overview of some very basic Git functionality, including *
 
 __Only applicable if you&apos;ve never used Git before__
 
-1. Download Git: http://git-scm.com/downloads
+1. [Download Git](http://git-scm.com/downloads)
 2. Go to the terminal. Type:
 
 `git config --global user.name "YOUR NAME"`  
@@ -42,7 +42,7 @@ __Only applicable if you&apos;ve never used Git before__
 
 **Create a local clone of your fork**
 
-Right now, you&apos;ve got a copy of the pre-work repository, but you do not have the files on your comnputer. This is where a **clone** comes in.
+Right now, you&apos;ve got a copy of the pre-work repository, but you do not have the files on your computer. This is where a **clone** comes in.
 
 1. In your fork of the pre-work repository, go the the right sidebar and click on the icon to copy the clone URL. 
 2. On the terminal, type `git clone` and paste the URL. It should look like this now:  
@@ -62,7 +62,7 @@ _The dot after the word add will add all the files that you've modified._
 
 The file name you just modified should show up. It will say something like:  
 
-`modified: python.md` 
+`modified: python.md`
 
 2. **Commit** your work. Type:
 
