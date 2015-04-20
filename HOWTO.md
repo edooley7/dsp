@@ -61,14 +61,18 @@ Once you are done writing out your answer, you will have to do three things in t
 _The dot after the word add will add all the files that you've modified._  
 
 The file name you just modified should show up. It will say something like:  
- 
+
 `modified: python.md` 
 
 2. **Commit** your work. Type:
 
 `git commit -m 'brief description of commit'`  
 
-3. **Push** your work up to GitHub.
+3. **Push** your work up to GitHub. Type:  
+
+`git push origin master`
+
+You&apos;re done! Your answer is now in Github and ready for our feedback. 
 
 
 
