@@ -41,6 +41,8 @@ After you've edited the file, you need to _commit_ your changes. At the bottom o
 
 ![commit](img/commit_file.png)
 
+You can repeat the edit and commit process as many times as you like!
+
 
 #### To submit through the terminal
 
