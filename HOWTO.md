@@ -32,11 +32,11 @@ When viewing an individual file in your forked repository on GitHub, you will an
 
 ![edit](img/edit_file.png)
 
-After you've edited the file, you need to _commit_ your changes. At the bottom of the page you can add a _commit message_ describing your changes and then click the green "Commit changes" button.
+After you've edited the file, you need to _commit_ your changes to make them permanent. At the bottom of the page you can add a _commit message_ describing your changes and then click the green "Commit changes" button.
 
 ![commit](img/commit_file.png)
 
-You can repeat the edit and commit process as many times as you like. You don't have to be totally done with a file to commit; commit incrementally!
+You can repeat the edit and commit process as many times as you like. You don't have to be totally done with a file to commit. Commit incrementally!
 
 
 ---
@@ -44,7 +44,7 @@ You can repeat the edit and commit process as many times as you like. You don't 
 
 ### Deepen your knowledge
 
-The process above is designed to be accessible regardless of background. There is much more to learn about `git` and GitHub.
+The process above is designed to be accessible to anyone regardless of background. There is much more to learn about `git` and GitHub.
 
 You will use the `git` Command Line Interface (CLI).
 
@@ -55,6 +55,6 @@ You will use the `git` Command Line Interface (CLI).
 It isn't required, but you can also submit work to your forked repository by `clone`ing your fork, editing files on your machine, `add`ing them to the staging area, `commit`ting them, and `push`ing your changes back up to GitHub.
 
 
-You'll also notice that a lot of files on GitHub end in the `.md` extension. GitHub supports _markdown_ for simple text formatting. You will be fluent in markdown and use it often.
+You'll also notice that a lot of files on GitHub have names ending in the `.md` extension. GitHub supports _markdown_ for simple text formatting. You will be fluent in markdown and use it often.
 
  * GitHub has a great [guide to markdown](https://guides.github.com/features/mastering-markdown/).
