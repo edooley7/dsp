@@ -13,12 +13,7 @@ It's easy and free to [sign up](https://github.com/join).
 Make sure that you are [signed in](https://github.com/login) to GitHub.
 
 
-## Step 3: Work with GitHub
-
-You can do everything through GitHub's web interface.
-
-
-### Step 3a: Fork this repository
+## Step 3: Fork this repository
 
 Click the **Fork** button at the upper right hand corner of the page:
 
@@ -29,9 +24,9 @@ This makes a personal copy of the repository that you can edit. Your forked copi
 This repository is `thisismetis/dsprework`. Your forked copy will be `your_github_user_name/dsprework`.
 
 
-### Step 3b: Edit your fork
+## Step 4: Edit your fork
 
-There are files in the repository that you need to edit to add your work.
+There are files in your forked repository that you need to edit to add your work.
 
 When viewing an individual file in your forked repository on GitHub, you will an see "Edit this file" button that you can click to get an in-browser editor.
 
@@ -41,55 +36,25 @@ After you've edited the file, you need to _commit_ your changes. At the bottom o
 
 ![commit](img/commit_file.png)
 
-You can repeat the edit and commit process as many times as you like!
+You can repeat the edit and commit process as many times as you like. You don't have to be totally done with a file to commit; commit incrementally!
 
 
-#### To submit through the terminal
+---
 
-__*CLI knowledge is necessary*__
 
-This will give you an overview of some very basic Git functionality, including **cloning, adding, committing and pushing.**
+### Deepen your knowledge
 
-**Set up Git**
+The process above is designed to be accessible regardless of background. There is much more to learn about `git` and GitHub.
 
-__Only applicable if you've never used Git before__
+You will use the `git` Command Line Interface (CLI).
 
-1. [Download Git](http://git-scm.com/downloads)
-2. Go to the terminal. Type:
+ * GitHub has a [guide](https://help.github.com/articles/set-up-git/) to installing `git` and doing initial configuration.
+ * Atlassian has good [tutorials](https://www.atlassian.com/git/tutorials/) on how to work with `git`.
+ * To get a complete understanding of `git`, you should read [Pro Git](http://git-scm.com/book/en/v2). It's available free online or as a printed book.
 
-`git config --global user.name "YOUR NAME"`
-`git config --global user.email "YOUR EMAIL ADDRESS"`
+It isn't required, but you can also submit work to your forked repository by `clone`ing your fork, editing files on your machine, `add`ing them to the staging area, `commit`ting them, and `push`ing your changes back up to GitHub.
 
-**Create a local clone of your fork**
 
-Right now, you've got a copy of the pre-work repository, but you do not have the files on your computer. This is where a **clone** comes in.
+You'll also notice that a lot of files on GitHub end in the `.md` extension. GitHub supports _markdown_ for simple text formatting. You will be fluent in markdown and use it often.
 
-1. In your fork of the pre-work repository, go the the right sidebar and click on the icon to copy the clone URL.
-2. On the terminal, type `git clone` and paste the URL. It should look like this now:
-`git clone https://github.com/YOUR_USERNAME/dsprework.git`  Press Enter.
-
-You've now got a copy of the pre-work in your computer.
-
-**Sumbitting your work**
-
-Once you are done writing out your answer, you will have to do three things in the terminal:
-**DO THIS AFTER EVERY ANSWER**
-
-1. **Add** your work. Type:
-
-`git add .`
-_The dot after the word add will add all the files that you've modified._
-
-The file name you just modified should show up. It will say something like:
-
-`modified: python.md`
-
-2. **Commit** your work. Type:
-
-`git commit -m 'brief description of commit'`
-
-3. **Push** your work up to GitHub. Type:
-
-`git push origin master`
-
-You're done! Your answer is now in Github and ready for our feedback.
+ * GitHub has a great [guide to markdown](https://guides.github.com/features/mastering-markdown/).
