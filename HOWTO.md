@@ -15,32 +15,31 @@ Make sure that you are [signed in](https://github.com/login) to GitHub.
 
 ## Step 3: Work with GitHub
 
-The following will guide you through the steps for "forking" the pre-work repository, which is where all of the material and exercises live. When you _fork_ a repository, you're making a personal copy of the pre-work. Everything you fork will show up in your **Repositories** section.
+You can do everything through GitHub's web interface.
 
 
-### Forking the repository
+### Step 3a: Fork this repository
 
-Click the **Fork** button on the upper right hand corner of the repository:
+Click the **Fork** button at the upper right hand corner of the page:
 
 ![fork](img/forking_repo.png)
 
-You've successfully forked the pre-work repository.
+This makes a personal copy of the repository that you can edit. Your forked copies will show up in your *Repositories* section.
+
+This repository is `thisismetis/dsprework`. Your forked copy will be `your_github_user_name/dsprework`.
 
 
-### Submitting answers
+### Step 3b: Edit your fork
 
-As you read through the pre-work, you will see the exercises that we **require** you to complete before your first day at Metis. There's two ways of submitting your answers: through the web interface in or through the terminal.
+There are files in the repository that you need to edit to add your work.
 
+When viewing an individual file in your forked repository on GitHub, you will an see "Edit this file" button that you can click to get an in-browser editor.
 
-#### To submit using the web interface
+![edit](img/edit_file.png)
 
-It's as easy as clicking the **Edit this file** button:
+After you've edited the file, you need to _commit_ your changes. At the bottom of the page you can add a _commit message_ describing your changes and then click the green "Commit changes" button.
 
-![fork](img/edit_file.png)
-
-Writing your answer in there and clicking on the Green **Commit changes** button.
-
-![fork](img/commit_file.png)
+![commit](img/commit_file.png)
 
 
 #### To submit through the terminal
