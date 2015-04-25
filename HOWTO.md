@@ -1,8 +1,24 @@
-# Guide to Forking and Editing on GitHub
+# How to Work with GitHub
+
+
+## Step 1: Sign up for GitHub
+
+You will need a GitHub account.
+
+It's easy and free to [sign up](https://github.com/join).
+
+
+## Step 2: Sign in to GitHub
+
+Make sure that you are [signed in](https://github.com/login) to GitHub.
+
+
+## Step 3: Work with GitHub
 
 The following will guide you through the steps for "forking" the pre-work repository, which is where all of the material and exercises live. When you _fork_ a repository, you're making a personal copy of the pre-work. Everything you fork will show up in your **Repositories** section.
 
-##Forking the repository
+
+### Forking the repository
 
 Click the **Fork** button on the upper right hand corner of the repository:
 
@@ -10,11 +26,13 @@ Click the **Fork** button on the upper right hand corner of the repository:
 
 You've successfully forked the pre-work repository.
 
-##Submitting answers
+
+### Submitting answers
 
 As you read through the pre-work, you will see the exercises that we **require** you to complete before your first day at Metis. There's two ways of submitting your answers: through the web interface in or through the terminal.
 
-###To submit using the web interface
+
+#### To submit using the web interface
 
 It's as easy as clicking the **Edit this file** button:
 
@@ -24,7 +42,8 @@ Writing your answer in there and clicking on the Green **Commit changes** button
 
 ![fork](img/commit_file.png)
 
-###To submit through the terminal
+
+#### To submit through the terminal
 
 __*CLI knowledge is necessary*__
 
