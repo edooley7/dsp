@@ -6,4 +6,4 @@ There is some work to be done!
  * [Choose and learn your editor(s)](editors.md)
  * [Learn command line](command_line.md)
  * [Learn Python](python.md)
- * [Learn statistics](stats.md)
+ * [Learn statistics](statistics.md)
