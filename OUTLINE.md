@@ -1,22 +1,6 @@
 # Metis Data Science Bootcamp Prework
 
-Welcome! Congratulations on your acceptance. We hope you are really
-excited. We want you to get ready for the bootcamp and have a smooth
-experience. This means there is some work to be done before the start
-of the bootcamp.
-
-Throughout the prework process, you will install some packages we will
-use, learn about the command line tools, get used to Emacs, go through
-a Python tutorial, and refresh your statistics background. The time
-estimates for each step are there to give you a general idea.
-Depending on what you are familiar with and what is new, you may spend
-less or more at each step.
-
-As the final step, you will work on some exercises that go along with
-the statistics refresher. Since they are all python based, they will
-allow you to both train and assess your python and statistics skills.
-**There are 6 required exercises.** You can submit the answers to
-these through email, the details are in the relevant part below.
+There is some work to be done!
 
 
 ### Installing packages
