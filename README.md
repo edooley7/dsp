@@ -5,9 +5,9 @@
 These materials are designed to ensure you are ready to succeed in the
 Metis data science bootcamp.
 
- 1. [Get set up](HOWTO.md)
- 2. [Install software](installation.md)
- 3. [Choose and learn your editor(s)](editors.md)
- 4. [Learn command line](command_line.md)
- 5. [Learn Python](python.md)
- 6. [Learn statistics](statistics.md)
+ 1. [Set up your repository on GitHub](01-set_up_repo.md)
+ 2. [Install software on your computer](02-install.md)
+ 3. [Choose and learn your editor(s)](03-editors.md)
+ 4. [Learn command line](04-command_line.md)
+ 5. [Learn Python](05-python.md)
+ 6. [Learn statistics](06-statistics.md)
