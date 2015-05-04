@@ -1,3 +1,9 @@
+### Python
+
+We will work with Python (2.7) throughout the course, and [learning and
+getting familiar with Python](python.md) is crucial.
+
+
 ## Python Tutorial
 
 To get familiar with Python, please follow

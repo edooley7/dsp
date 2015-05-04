@@ -1,3 +1,10 @@
+### Emacs (or text editor of your choice)
+
+While we will also use ipython notebooks and the Python IDE during the
+bootcamp, in the end the process of coding mostly involves writing
+code files in a text editor and running these files with Python.
+
+
 ## Emacs (and other text editors)
 
 [Emacs](http://emacsformacosx.com/) is a very popular text editor for

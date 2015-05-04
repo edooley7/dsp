@@ -1,3 +1,13 @@
+### Statistics
+
+Time to freshen up your statistics knowledge! We have a
+[guide](stats.md) for doing exactly that. The exercises go hand in
+hand with these, so please check both of them.
+
+There are 6 required and 6 optional problems are listed. Do them while
+you're reading the relevant statistics chapters.
+
+
 ## Statistics
 
 Allen Downey wrote great short books to introduce statistics in a fun
