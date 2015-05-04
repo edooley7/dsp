@@ -58,12 +58,8 @@ Time to freshen up your statistics knowledge! We have a
 [guide](stats.md) for doing exactly that. The exercises go hand in
 hand with these, so please check both of them.
 
-
-### Exercises
-
-The 6 required and 6 optional problems are listed
-[here](exercises.md). Try to do them while you're reading the relevant
-statistics chapters. It would be ideal if you could submit the answers
-before the first day of bootcamp. However, if you could not finish in
-time, you can submit them by the end of the first week. Thank you very
-much.
+There are 6 required and 6 optional problems are listed. Try to do
+them while you're reading the relevant statistics chapters. It would
+be ideal if you could submit the answers before the first day of
+bootcamp. However, if you could not finish in time, you can submit
+them by the end of the first week. Thank you very much.
