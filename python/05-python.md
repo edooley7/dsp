@@ -16,7 +16,6 @@ parts or the entire tutorial. However, if you are not already very
 familiar with using python, we believe that this tutorial will be very
 useful.
 
-
 ##### Note on the interpreter
 If you never used the Python interpreter before,
 [this page](http://www.diveintopython.net/installing_python/shell.html)
@@ -35,10 +34,14 @@ How long the tutorial will take depends on how familiar you are with
 Python.
 
 After you're done, (and hopefully you will have done the exercises in the book!),
-please go ahead and complete the following exercises:
-[strings](/)
-[strings](/)
-[strings](/)
+please go ahead and complete the following exercises:  
+_**Each answer should be submitted in the appropriate file**_  
+
+[Strings](exercise_01.py)  
+[Strings](exercise_01b.py)    
+[Lists](exercise_02.py)  
+[Lists](exercise_02b.py)  
+[Dict and File](exercise_03.py)  
 
 _All exercises are from Google's Python Course and are licensed for distrubution under the Apache License, Version 2.0_
 
