@@ -9,5 +9,5 @@ Metis data science bootcamp.
  2. [Install software on your computer](02-install.md)
  3. [Choose and learn your editor(s)](03-editors.md)
  4. [Learn command line](04-command_line.md)
- 5. [Learn Python](05-python.md)
- 6. [Learn statistics](06-statistics.md)
+ 5. [Learn Python](python)
+ 6. [Learn Statistics](statistics)
