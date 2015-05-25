@@ -34,14 +34,14 @@ How long the tutorial will take depends on how familiar you are with
 Python.
 
 After you're done, (and hopefully you will have done the exercises in the book!),
-please go ahead and complete the following exercises:  
-_**Each answer should be submitted in the appropriate file**_  
+please go ahead and complete the following exercises:
+_**Each answer should be submitted in the appropriate file**_
 
-[Strings](exercise_01.py)  
-[Strings](exercise_01b.py)    
-[Lists](exercise_02.py)  
-[Lists](exercise_02b.py)  
-[Dict and File](exercise_03.py)  
+[Strings](python/exercise_01.py)
+[Strings](python/exercise_01b.py)
+[Lists](python/exercise_02.py)
+[Lists](python/exercise_02b.py)
+[Dict and File](python/exercise_03.py)
 
 _All exercises are from Google's Python Course and are licensed for distrubution under the Apache License, Version 2.0_
 
