@@ -1,32 +1,62 @@
 # Choose and learn your editor(s)
 
-While we will also use ipython notebooks and the Python IDE during the
-bootcamp, in the end the process of coding mostly involves writing
-code files in a text editor and running these files with Python.
+
+Computing's interface is text. To work effectively, you need to be fluent with this interface.
 
 
-## Emacs (and other text editors)
+### Typing
 
-[Emacs](http://emacsformacosx.com/) is a very popular text editor for
-coding. It has been around since the mid 1970s and is still being
-actively developed. It is our choice of editor. It has a lot of
-key-bindings (Key combinations that usually involve the ctrl or alt
-keys), and you can use it completely without touching a mouse. It
-takes a bit of an effort to get used to the key-bindings, but once you
-do, your productivity increases a lot. *If you are not familiar with
-any coding text editor, we strongly suggest learning how to use
-Emacs*. To do that, you can follow
-[Absolute Beginner's Guide to Emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/). Make
-a cheat sheet of the main key-bindings (moving around, copying,
-pasting, undo, etc.). You can go through this in thirty minutes to one
-hour. Try to use Emacs at every chance you get, especially as you go
-through the next steps of prework that involves coding. The Python
-tutorial and coding exercises of Think Stats provide excellent chances
-to do so. This will give you experience and get you faster.
+It may sound silly, but [make sure](http://www.typingtest.com/) you know how to type. You should be comfortable typing with perfect accuracy at 60 words per minute, at least. If you currently can't, practice until you can.
 
-[Sublime Text](http://www.sublimetext.com/) text is another popular
-editor, but it's not free. [Vim](https://code.google.com/p/macvim/)
-has been around as long as Emacs has, and shares the full-keyboard
-input philosophy, but is arguably harder to learn for a beginner. If
-you are already familiar with one of these or a different text editor
-that highlights code syntax, you are welcome to use that.
+A lot of your work will be done in a text editor. You have to know how to use your editor. Any editor will work, but knowing a powerful editor well will make you faster, more comfortable, and more effective.
+
+
+### Terminal Editor
+
+Sometimes you will need to use a non-graphical text editor. This means an editor that will run entirely inside a terminal window, without spawning a new window, entirely without mouse input.
+
+The main console text editors are Emacs, vim, and nano. Make sure that you know at least one of them well enough to do basic editing.
+
+You should know at least enough vim to be able to get out of it, because it is the default on many systems and you might find yourself in it even if you didn't mean to be.
+
+If you intend to use a graphical editor that doesn't run in a terminal, nano might be a good choice for you because it is very simple.
+
+Both Emacs and vim have built-in interactive tutorials that you can try.
+
+---
+
+What terminal editor will you use? How did you make your decision?
+
+REPLACE THIS TEXT WITH YOUR RESPONSE
+
+---
+
+
+### Graphical Editor
+
+You will probably spend most of your time with access to a graphical interface, where you have more choices in editors and integrated development environments.
+
+Popular editors and IDEs include:
+
+ * Emacs
+ * vim
+ * Sublime
+ * Atom
+ * Spyder
+ * PyCharm
+
+If you choose Emacs or vim, you will have essentially the same editor experience across graphical and non-graphical environments, which is nice. It's also nice to be able to work without ever having to use a mouse. Emacs and vim have somewhat steep learning curves, but they give you the ability to customize your environment quite a lot to make it exactly what you want.
+
+Sublime is probably the most popular editor for new coders. You can set it up to integrate with Python fairly well. Atom is pretty similar to Sublime but has an interesting open architecture and is developed by folks at GitHub.
+
+Spyder and PyCharm are IDEs for Python. They try to give you a fully configured setup out of the box.
+
+We will also use IPython (Jupyter) notebooks, but this does not remove the need for proficiency in an editor or IDE.
+
+---
+
+What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? How do you customize your editor?
+
+REPLACE THIS TEXT WITH YOUR RESPONSE
+
+---
