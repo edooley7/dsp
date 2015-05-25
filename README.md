@@ -5,7 +5,7 @@
 These materials are designed to ensure you are ready to succeed in the
 Metis data science bootcamp.
 
-**All required exercises _must_ be completed before the first day of class**
+**All required exercises _must_ be completed before the first day of class.**
 
  1. [Set up your repository on GitHub](01-set_up_repo.md)
    (_Setting up_: **20 min**)
