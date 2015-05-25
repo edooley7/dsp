@@ -1,4 +1,4 @@
-### Command line
+# Learn command line
 
 Please follow and complete the free online [Command Line Crash Course
 tutorial](http://cli.learncodethehardway.org/book/). This is a great,

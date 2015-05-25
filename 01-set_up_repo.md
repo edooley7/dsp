@@ -1,4 +1,4 @@
-# How to Work with GitHub
+# Set up your repository on GitHub
 
 
 ## Step 1: Sign up for GitHub

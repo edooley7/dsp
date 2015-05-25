@@ -1,4 +1,4 @@
-### Statistics
+# Learn Statistics
 
 Time to freshen up your statistics knowledge! We have a
 [guide](stats.md) for doing exactly that. The exercises go hand in
