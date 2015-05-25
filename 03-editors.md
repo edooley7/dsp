@@ -15,7 +15,11 @@ A lot of your work will be done in a text editor. You have to know how to use yo
 
 Sometimes you will need to use a non-graphical text editor. This means an editor that will run entirely inside a terminal window, without spawning a new window, entirely without mouse input.
 
-The main console text editors are Emacs, vim, and nano. Make sure that you know at least one of them well enough to do basic editing.
+Make sure that you know at least one of these well enough to do basic editing in a terminal:
+
+ * Emacs
+ * vim
+ * nano
 
 You should know at least enough vim to be able to get out of it, because it is the default on many systems and you might find yourself in it even if you didn't mean to be.
 
@@ -55,7 +59,7 @@ We will also use IPython (Jupyter) notebooks, but this does not remove the need 
 
 ---
 
-What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? How do you customize your editor?
+What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
 REPLACE THIS TEXT WITH YOUR RESPONSE
 
