@@ -1,4 +1,4 @@
-### Emacs (or text editor of your choice)
+# Choose and learn your editor(s)
 
 While we will also use ipython notebooks and the Python IDE during the
 bootcamp, in the end the process of coding mostly involves writing

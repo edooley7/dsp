@@ -1,4 +1,4 @@
-### Python
+# Learn Python
 
 We will work with Python (2.7) throughout the course, and [learning and
 getting familiar with Python](python.md) is crucial.
