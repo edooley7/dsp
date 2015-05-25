@@ -95,14 +95,14 @@ you can check out the [documentation](http://ipython.org/ipython-doc/stable/note
 Please complete and submit your answers:
 
 _Think Stats_
-[Exercise 2.1](exercise_2.1.py)
-[Exercise 2.4](exercise_2.4.py)
-[Exercise 3.1](exercise_3.1.py)
-[Exercise 4.2](exercise_4.2.py)
+[Exercise 2.1](statistics/exercise_2.1.py)
+[Exercise 2.4](statistics/exercise_2.4.py)
+[Exercise 3.1](statistics/exercise_3.1.py)
+[Exercise 4.2](statistics/exercise_4.2.py)
 
 _Think Bayes_
-[Exercise 7.1](exercise_7.1.py)
-[Exercise 8.2](exercise_8.2.py)
+[Exercise 7.1](statistics/exercise_7.1.py)
+[Exercise 8.2](statistics/exercise_8.2.py)
 
 
 ### Optional Exercises
