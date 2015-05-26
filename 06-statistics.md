@@ -1,11 +1,11 @@
 # Learn Statistics
 
-Time to freshen up your statistics knowledge! We have a
-[guide](stats.md) for doing exactly that. The exercises go hand in
-hand with these, so please check both of them.
+Time to freshen up your statistics knowledge! We have a guide for
+doing exactly that. The exercises go hand in hand with these, so
+please check both of them.
 
-There are 6 required and 6 optional problems. Do them while
-you're reading the relevant statistics chapters.
+There are 6 required and 6 optional problems. Do them while you're
+reading the relevant statistics chapters.
 
 
 ## Statistics
