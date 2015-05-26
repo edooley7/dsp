@@ -1,7 +1,7 @@
 # Learn Python
 
-We will work with Python (2.7) throughout the course, and [learning and
-getting familiar with Python](python.md) is crucial.
+We will work with Python (2.7) throughout the course, and getting
+familiar with Python is crucial.
 
 
 ## Python Tutorial
