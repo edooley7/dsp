@@ -7,7 +7,12 @@ hand with these, so please check both of them.
 There are 6 required and 6 optional problems. Do them while
 you're reading the relevant statistics chapters.
 
+
 ## Statistics
+
+[![Think Stats](think_stats.jpg)](http://greenteapress.com/thinkstats2/)
+
+[![Think Bayes](think_bayes.png)](http://greenteapress.com/thinkbayes/)
 
 Allen Downey wrote great short books to introduce statistics in a fun
 way, going over examples and exercises using python. They are freely

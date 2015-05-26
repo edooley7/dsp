@@ -3,6 +3,7 @@
 We will work with Python (2.7) throughout the course, and getting
 familiar with Python is crucial.
 
+[![Think Python](img/think_python.png)](http://www.greenteapress.com/thinkpython/)
 
 ## Python Tutorial
 
