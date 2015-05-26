@@ -33,6 +33,14 @@ import statsmodels
 import sklearn
 ```
 
+---
+
+Did you install Python 2 or 3? Why? How can you check if you happen to be on an unfamiliar computer?
+
+REPLACE THIS TEXT WITH YOUR RESPONSE
+
+---
+
 
 ### Homebrew
 

@@ -38,6 +38,13 @@ After you've edited the file, you need to _commit_ your changes to make them per
 
 You can repeat the edit and commit process as many times as you like. You don't have to be totally done with a file to commit. Commit incrementally!
 
+Here's your first chance to practice this:
+
+---
+
+What is your favorite [emoji](http://www.emoji-cheat-sheet.com/)?
+
+REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
