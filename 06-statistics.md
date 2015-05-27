@@ -10,9 +10,11 @@ reading the relevant statistics chapters.
 
 ## Statistics
 
-[!<img src="img/think_stats.jpg" width="250" />](http://greenteapress.com/thinkstats2/)
+[!<img src="img/think_stats.jpg" title="Think Stats" width="250" style="float: left;" />](http://greenteapress.com/thinkstats2/)
 
-[![Think Bayes](img/think_bayes.png)](http://greenteapress.com/thinkbayes/)
+[!<img src="img/think_bayes.png" title="Think Bayes" style="float: left;" />](http://greenteapress.com/thinkbayes/)
+
+<p style="clear: both;">
 
 Allen Downey wrote great short books to introduce statistics in a fun
 way, going over examples and exercises using python. They are freely
