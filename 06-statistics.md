@@ -10,7 +10,7 @@ reading the relevant statistics chapters.
 
 ## Statistics
 
-[![Think Stats](img/think_stats.jpg)](http://greenteapress.com/thinkstats2/)
+[!<img src="img/think_stats.jpg" width="250" />](http://greenteapress.com/thinkstats2/)
 
 [![Think Bayes](img/think_bayes.png)](http://greenteapress.com/thinkbayes/)
 
