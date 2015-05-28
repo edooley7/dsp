@@ -11,14 +11,14 @@ Read Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thin
 Please complete and submit your answers:
 
 _Think Stats_
-[Exercise 2.1](statistics/exercise_2.1.py)
 [Exercise 2.4](statistics/exercise_2.4.py)
 [Exercise 3.1](statistics/exercise_3.1.py)
 [Exercise 4.2](statistics/exercise_4.2.py)
-
-_Think Bayes_
 [Exercise 7.1](statistics/exercise_7.1.py)
 [Exercise 8.2](statistics/exercise_8.2.py)
+
+_Think Bayes_
+[Exercise 2.1](statistics/exercise_2.1.py)
 
 
 ### Optional Exercises
