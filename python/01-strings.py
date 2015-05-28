@@ -21,8 +21,8 @@
 # So donuts(5) returns 'Number of donuts: 5'
 # and donuts(23) returns 'Number of donuts: many'
 def donuts(count):
-  # +++your code here+++
-  return
+    # +++your code here+++
+    return
 
 
 # B. both_ends
@@ -31,8 +31,8 @@ def donuts(count):
 # so 'spring' yields 'spng'. However, if the string length
 # is less than 2, return instead the empty string.
 def both_ends(s):
-  # +++your code here+++
-  return
+    # +++your code here+++
+    return
 
 
 # C. fix_start
@@ -45,8 +45,8 @@ def both_ends(s):
 # Hint: s.replace(stra, strb) returns a version of string s
 # where all instances of stra have been replaced by strb.
 def fix_start(s):
-  # +++your code here+++
-  return
+    # +++your code here+++
+    return
 
 
 # D. MixUp
@@ -57,8 +57,8 @@ def fix_start(s):
 #   'dog', 'dinner' -> 'dig donner'
 # Assume a and b are length 2 or more.
 def mix_up(a, b):
-  # +++your code here+++
-  return
+    # +++your code here+++
+    return
 
 
 print 'donuts'
@@ -94,8 +94,8 @@ test(mix_up('pezzy', 'firm'), 'fizzy perm')
 # If the string length is less than 3, leave it unchanged.
 # Return the resulting string.
 def verbing(s):
-  # +++your code here+++
-  return
+    # +++your code here+++
+    return
 
 
 # E. not_bad
@@ -107,8 +107,8 @@ def verbing(s):
 # So 'This dinner is not that bad!' yields:
 # This dinner is good!
 def not_bad(s):
-  # +++your code here+++
-  return
+    # +++your code here+++
+    return
 
 
 # F. front_back
@@ -119,8 +119,12 @@ def not_bad(s):
 # Given 2 strings, a and b, return a string of the form
 #  a-front + b-front + a-back + b-back
 def front_back(a, b):
-  # +++your code here+++
-  return
+    print 'front_back'
+    test(front_back('abcd', 'xy'), 'abxcdy')
+    test(front_back('abcde', 'xyz'), 'abcxydez')
+    test(front_back('Kitten', 'Donut'), 'KitDontenut')
+    # +++your code here+++
+    return
 
 
 print 'verbing'
@@ -132,7 +136,3 @@ test(not_bad('This movie is not so bad'), 'This movie is good')
 test(not_bad('This dinner is not that bad!'), 'This dinner is good!')
 test(not_bad('This tea is not hot'), 'This tea is not hot')
 test(not_bad("It's bad yet not"), "It's bad yet not")
-print 'front_back'
-test(front_back('abcd', 'xy'), 'abxcdy')
-test(front_back('abcde', 'xyz'), 'abcxydez')
-test(front_back('Kitten', 'Donut'), 'KitDontenut')
