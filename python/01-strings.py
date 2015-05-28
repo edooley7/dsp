@@ -21,6 +21,10 @@
 # So donuts(5) returns 'Number of donuts: 5'
 # and donuts(23) returns 'Number of donuts: many'
 def donuts(count):
+    test(donuts(4), 'Number of donuts: 4')
+    test(donuts(9), 'Number of donuts: 9')
+    test(donuts(10), 'Number of donuts: many')
+    test(donuts(99), 'Number of donuts: many')
     # +++your code here+++
     return
 
@@ -31,6 +35,10 @@ def donuts(count):
 # so 'spring' yields 'spng'. However, if the string length
 # is less than 2, return instead the empty string.
 def both_ends(s):
+    test(both_ends('spring'), 'spng')
+    test(both_ends('Hello'), 'Helo')
+    test(both_ends('a'), '')
+    test(both_ends('xyz'), 'xyyz')
     # +++your code here+++
     return
 
@@ -45,6 +53,10 @@ def both_ends(s):
 # Hint: s.replace(stra, strb) returns a version of string s
 # where all instances of stra have been replaced by strb.
 def fix_start(s):
+    test(fix_start('babble'), 'ba**le')
+    test(fix_start('aardvark'), 'a*rdv*rk')
+    test(fix_start('google'), 'goo*le')
+    test(fix_start('donut'), 'donut')
     # +++your code here+++
     return
 
@@ -57,31 +69,12 @@ def fix_start(s):
 #   'dog', 'dinner' -> 'dig donner'
 # Assume a and b are length 2 or more.
 def mix_up(a, b):
+    test(mix_up('mix', 'pod'), 'pox mid')
+    test(mix_up('dog', 'dinner'), 'dig donner')
+    test(mix_up('gnash', 'sport'), 'spash gnort')
+    test(mix_up('pezzy', 'firm'), 'fizzy perm')
     # +++your code here+++
     return
-
-
-print 'donuts'
-# Each line calls donuts, compares its result to the expected for that call.
-test(donuts(4), 'Number of donuts: 4')
-test(donuts(9), 'Number of donuts: 9')
-test(donuts(10), 'Number of donuts: many')
-test(donuts(99), 'Number of donuts: many')
-print 'both_ends'
-test(both_ends('spring'), 'spng')
-test(both_ends('Hello'), 'Helo')
-test(both_ends('a'), '')
-test(both_ends('xyz'), 'xyyz')
-print 'fix_start'
-test(fix_start('babble'), 'ba**le')
-test(fix_start('aardvark'), 'a*rdv*rk')
-test(fix_start('google'), 'goo*le')
-test(fix_start('donut'), 'donut')
-print 'mix_up'
-test(mix_up('mix', 'pod'), 'pox mid')
-test(mix_up('dog', 'dinner'), 'dig donner')
-test(mix_up('gnash', 'sport'), 'spash gnort')
-test(mix_up('pezzy', 'firm'), 'fizzy perm')
 
 
 # Additional basic string exercises
@@ -94,6 +87,9 @@ test(mix_up('pezzy', 'firm'), 'fizzy perm')
 # If the string length is less than 3, leave it unchanged.
 # Return the resulting string.
 def verbing(s):
+    test(verbing('hail'), 'hailing')
+    test(verbing('swiming'), 'swimingly')
+    test(verbing('do'), 'do')
     # +++your code here+++
     return
 
@@ -107,6 +103,10 @@ def verbing(s):
 # So 'This dinner is not that bad!' yields:
 # This dinner is good!
 def not_bad(s):
+    test(not_bad('This movie is not so bad'), 'This movie is good')
+    test(not_bad('This dinner is not that bad!'), 'This dinner is good!')
+    test(not_bad('This tea is not hot'), 'This tea is not hot')
+    test(not_bad("It's bad yet not"), "It's bad yet not")
     # +++your code here+++
     return
 
@@ -125,14 +125,3 @@ def front_back(a, b):
     test(front_back('Kitten', 'Donut'), 'KitDontenut')
     # +++your code here+++
     return
-
-
-print 'verbing'
-test(verbing('hail'), 'hailing')
-test(verbing('swiming'), 'swimingly')
-test(verbing('do'), 'do')
-print 'not_bad'
-test(not_bad('This movie is not so bad'), 'This movie is good')
-test(not_bad('This dinner is not that bad!'), 'This dinner is good!')
-test(not_bad('This tea is not hot'), 'This tea is not hot')
-test(not_bad("It's bad yet not"), "It's bad yet not")
