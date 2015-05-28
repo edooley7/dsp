@@ -17,3 +17,30 @@ Complete the following exercises to check your ability with Python. _**Each solu
  * [Dict and File](python/exercise_03.py)
 
 _All exercises are from Google's Python Course and are licensed for distrubution under the Apache License, Version 2.0_
+
+
+---
+
+How are Python lists and sets similar and different? Give examples of using both effectively. How does performance compare between lists and sets for finding an element. Why?
+
+REPLACE THIS TEXT WITH YOUR RESPONSE
+
+---
+
+
+---
+
+Describe Python's `lambda`. What is it, and what is it used for? Give at least one example, including an example of using a `lambda` in the `key` argument to `sorted`.
+
+REPLACE THIS TEXT WITH YOUR RESPONSE
+
+---
+
+
+---
+
+Explain list comprehensions. Give examples and show equivalents with `map` and `filter`. How do their capabilities compare? Also demonstrate set comprehensions and dictionary comprehensions.
+
+REPLACE THIS TEXT WITH YOUR RESPONSE
+
+---
