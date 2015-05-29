@@ -1,112 +1,26 @@
 # Learn Statistics
 
-Time to freshen up your statistics knowledge! We have a guide for
-doing exactly that. The exercises go hand in hand with these, so
-please check both of them.
+Read Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thinkstats2/) and [Think Bayes](http://greenteapress.com/thinkbayes/) for getting up to speed with core ideas in statistics and how to approach them programmatically. Both books are completely available online, or you can buy physical copies if you would like.
 
-There are 6 required and 6 optional problems. Do them while you're
-reading the relevant statistics chapters.
+[<img src="img/think_stats.jpg" title="Think Stats" width="250" style="float: left;" />](http://greenteapress.com/thinkstats2/)
+[<img src="img/think_bayes.png" title="Think Bayes" style="float: left"; />](http://greenteapress.com/thinkbayes/)
 
+Some people enjoy video content such as Khan Academy's [Probability and Statistics](https://www.khanacademy.org/math/probability) or the much longer and more in-depth Harvard [Statistics 110](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo). You might also be interested in the book [Statistics Done Wrong](http://www.statisticsdonewrong.com/) or a very short [overview](http://schoolofdata.org/handbook/courses/the-math-you-need-to-start/) from School of Data.
 
-## Statistics
-
-[<img src="img/think_stats.jpg" title="Think Stats" width="250" style="float: left; width=250" />](http://greenteapress.com/thinkstats2/)
-[<img src="img/think_bayes.png" title="Think Bayes" style="float: left; width: 250;" />](http://greenteapress.com/thinkbayes/)
-
-Allen Downey wrote great short books to introduce statistics in a fun
-way, going over examples and exercises using python. They are freely
-available to boot.
-
-
-### Think Stats Chapters 1 - 9
-
-Think Stats is a great book to both refresh/learn the most critical
-statistics topics and gain experience in how you'd apply statistics
-analysis to problems using python. It covers typical statistics topics
-from a modern, simulation/coding based perspective. The chapters are
-quite concise and easy to read.
-
-You can download a PDF or read the book online
-[here](http://www.greenteapress.com/thinkstats2/). Of course, if you
-are so inclined, you can also buy a hard copy on Amazon, but that is
-not necessary.
-
-We will be focusing on the **first 9 chapters**. You can go through
-these chapters in 6 to 9 hours (depending on how familiar you are with
-statistics and python) Please do so. If it takes somewhat longer,
-that's fine. However, don't get stuck too long on a single chapter.
-This preparation will help you a lot, and it will provide a good
-initial exposure to using python for data analysis, but it is not your
-only chance to internalize these topics. If at any point you feel
-overwhelmed, don't worry. You don't need to master all of this in
-prework.
-
-5 of the 6 required exercises are also from this book. It would be a
-good idea to tackle these exercises as you work your way through the
-book. For example, the first exercise is 2.4 at the end of chapter 2.
-The best time to start working on it is after you read Chapter 2.
-
-If you can finish the required exercises with time to spend, we
-suggest working on some of the optional ones. These may take longer,
-but will definitely improve your skills and bootcamp experience. Take
-your time with these exercises, don't rush them. Don't push yourself
-to finish any of them, if you're short on time. Even completing a
-single of these is an excellent bonus.
-
-
-### Think Bayes Chapters 1 & 2
-
-Another important subject is the Bayesian approach to probability,
-where _probability_ is approached as _the state of knowledge_ rather
-than the _expected frequency_ of things. This Bayesian approach is
-used in a lot of data science applications. Luckily, Downey used his
-method in Think Stats to write another free introduction book on Bayes
-with python-based examples and exercises. It is called Think Bayes and
-you can find it [here](http://www.greenteapress.com/thinkbayes/).
-
-Please read the first two chapters of this book will work both as a
-reinforcement of probabilities (covered by Think Stats as well) and an
-introduction to the Bayesian framework.
-
-The last required exercise is from Think Bayes, and two optional
-exercises are also Bayesian problems.
-
-
-## Exercises
-
-These exercises are a great way to both prepare you for the bootcamp
-and for you to assess if you've absorbed the prework content and are
-fully ready. There are 6 required and 6 optional problems. We chose
-them to go along with your prework statistics training. They require
-(and teach) both python and statistics skills. Have fun!
-
-**Every exercise must be finished before your first day of Metis.**
-
-
-### Setup
-
-As mentioned in the *Preface* of Think Stats (section *Using the Code*), there is some accompanying code and data.
-You can get these from the [Think Stats repository](https://github.com/AllenDowney/ThinkStats2).
-*Using the Code* explains different ways of getting these files if you are unfamiliar with github.
-This repository also includes some ipython notebooks.
-
-We will learn, use and get very familiar with ipython notebooks in class,
-but if you want to learn more about them ahead of time to use them for these exercises,
-you can check out the [documentation](http://ipython.org/ipython-doc/stable/notebook/notebook.html). You can also optionally try your hand at Think Stats Exercise 1.1, which gives you an ipython notebook and asks a few questions.
 
 ### Required Exercises
 
 Please complete and submit your answers:
 
 _Think Stats_
-[Exercise 2.1](statistics/exercise_2.1.py)
 [Exercise 2.4](statistics/exercise_2.4.py)
 [Exercise 3.1](statistics/exercise_3.1.py)
 [Exercise 4.2](statistics/exercise_4.2.py)
-
-_Think Bayes_
 [Exercise 7.1](statistics/exercise_7.1.py)
 [Exercise 8.2](statistics/exercise_8.2.py)
+
+_Think Bayes_
+[Exercise 2.1](statistics/exercise_2.1.py)
 
 
 ### Optional Exercises
@@ -134,6 +48,7 @@ It also takes `log_upper`, which is an assumed upper bound on the highest range,
 
 Compute the median, mean, skewness and Pearson’s skewness of the resulting sample. What fraction of households reports a taxable income below the mean? How do the results depend on the assumed upper bound?
 
+
 #### 3) Think Stats Exercise 8.3
 
 In games like hockey and soccer, the time between goals is
@@ -151,6 +66,7 @@ Write another function that simulates many games, stores the estimates of
 Is this way of making an estimate biased? Plot the sampling distribution of
 the estimates and the 90% confidence interval. What is the standard error?
 What happens to sampling error for increasing values of `lam`?
+
 
 #### 4) Think Stats Exercise 9.2
 
