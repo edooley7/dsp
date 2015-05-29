@@ -10,8 +10,8 @@ Of course, depending on your experience with Python, you may want to spend more 
 
 Complete the following exercises to check your ability with Python. _**Each solution should be submitted in the appropriate file.**_
 
- * [Strings](python/01-strings.py)
- * [Lists](python/02-lists.py)
+ * [Strings](python/strings.py)
+ * [Lists](python/lists.py)
  * [Dict and File](python/exercise_03.py)
 
 _All exercises are from Google's Python Course and are licensed for distribution under the Apache License, Version 2.0_
