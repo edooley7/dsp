@@ -10,13 +10,20 @@ Of course, depending on your experience with Python, you may want to spend more 
 
 Complete the following exercises to check your ability with Python. _**Each solution should be submitted in the appropriate file.**_
 
- * [Strings](python/exercise_01.py)
- * [Strings](python/exercise_01b.py)
- * [Lists](python/exercise_02.py)
- * [Lists](python/exercise_02b.py)
+ * [Strings](python/01-strings.py)
+ * [Lists](python/02-lists.py)
  * [Dict and File](python/exercise_03.py)
 
 _All exercises are from Google's Python Course and are licensed for distrubution under the Apache License, Version 2.0_
+
+
+---
+
+How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
+
+REPLACE THIS TEXT WITH YOUR RESPONSE
+
+---
 
 
 ---
