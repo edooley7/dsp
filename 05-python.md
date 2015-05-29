@@ -14,7 +14,7 @@ Complete the following exercises to check your ability with Python. _**Each solu
  * [Lists](python/02-lists.py)
  * [Dict and File](python/exercise_03.py)
 
-_All exercises are from Google's Python Course and are licensed for distrubution under the Apache License, Version 2.0_
+_All exercises are from Google's Python Course and are licensed for distribution under the Apache License, Version 2.0_
 
 
 ---
