@@ -1,10 +1,5 @@
-#!/usr/bin/env python
-
 # Based on materials copyright 2010 Google Inc.
 # Licensed under the Apache License, Version 2.0
-
-# Basic string exercises:
-# Fill in the code for the functions below.
 
 
 def donuts(count):
@@ -43,8 +38,6 @@ def both_ends(s):
     'xyyz'
     """
     raise NotImplementedError
-    # +++your code here+++
-    return
 
 
 def fix_start(s):
@@ -109,13 +102,13 @@ def not_bad(s):
     So 'This dinner is not that bad!' yields: 'This dinner is
     good!'
 
-    not_bad('This movie is not so bad')
+    >>> not_bad('This movie is not so bad')
     'This movie is good'
-    not_bad('This dinner is not that bad!')
+    >>> not_bad('This dinner is not that bad!')
     'This dinner is good!'
-    not_bad('This tea is not hot')
+    >>> not_bad('This tea is not hot')
     'This tea is not hot'
-    not_bad("It's bad yet not")
+    >>> not_bad("It's bad yet not")
     "It's bad yet not"
     """
     raise NotImplementedError
