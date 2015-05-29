@@ -20,11 +20,11 @@ Metis data science bootcamp.
  4. [Learn command line](04-command_line.md)
     (**2hr**)
 
- 5. [Learn Python](python)
+ 5. [Learn Python](05-python.md)
     (_Material_: **5-8hr**)
     (_Exercises_: **2hr**)
 
- 6. [Learn Statistics](statistics)
+ 6. [Learn Statistics](06-statistics.md)
     (_Material_: **7-10hr**)
     (_Exercises_: **2hr**)
 
