@@ -13,14 +13,21 @@ Some people enjoy video content such as Khan Academy's [Probability and Statisti
 Please complete and submit your answers:
 
 _Think Stats_
-[Exercise 2.4](statistics/exercise_2.4.py)
-[Exercise 3.1](statistics/exercise_3.1.py)
-[Exercise 4.2](statistics/exercise_4.2.py)
-[Exercise 7.1](statistics/exercise_7.1.py)
-[Exercise 8.2](statistics/exercise_8.2.py)
+
+[Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) : [Exercise 2.4](statistics/exercise_2.4.py)
+
+[Think Stats Chapter 3 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2004.html#toc31) : [Exercise 3.1](statistics/exercise_3.1.py)
+
+[Think Stats Chapter 4 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2005.html#toc41) : [Exercise 4.2](statistics/exercise_4.2.py)
+
+[Think Stats Chapter 7 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2008.html#toc70) : [Exercise 7.1](statistics/exercise_7.1.py)
+
+[Think Stats Chapter 8 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2009.html#toc77) : [Exercise 8.2](statistics/exercise_8.2.py)
+
 
 _Think Bayes_
-[Exercise 2.1](statistics/exercise_2.1.py)
+
+[Think Bayes Chapter 2 Exercise 1](http://greenteapress.com/thinkbayes/html/thinkbayes003.html#toc22) : [Exercise 2.1](statistics/exercise_2.1.py)
 
 
 ### Optional Exercises
