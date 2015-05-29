@@ -1,10 +1,5 @@
-#!/usr/bin/env python
-
 # Based on materials copyright 2010 Google Inc.
 # Licensed under the Apache License, Version 2.0
-
-# List exercises
-# Fill in the code for the functions below.
 
 
 def match_ends(words):
@@ -68,6 +63,8 @@ def remove_adjacent(nums):
     [1, 2, 3]
     >>> remove_adjacent([2, 2, 3, 3, 3])
     [2, 3]
+    >>> remove_adjacent([3, 2, 3, 3, 3])
+    [3, 2, 3]
     >>> remove_adjacent([])
     []
     """

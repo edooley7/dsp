@@ -6,15 +6,16 @@ Read Allen Downey's [Think Python](http://www.greenteapress.com/thinkpython/) fo
 
 For quick and easy interactive practice with Python, many people enjoy [Codecademy's Python track](http://www.codecademy.com/en/tracks/python). There's also [Learn Python The Hard Way](http://learnpythonthehardway.org/book/) and [The Python Tutorial](https://docs.python.org/2/tutorial/).
 
-Of course, depending on your experience with Python, you may want to spend more or less time with these materials.
+Complete the following exercises to check your ability with Python.
 
-Complete the following exercises to check your ability with Python. _**Each solution should be submitted in the appropriate file.**_
+These exercises are implemented with doctests, which are runnable tests inside docstrings. Fill in the function definitions. Correct solutions will make it possible to run (for example) `python -m doctest strings.py` with no messages about failures.
 
- * [Strings](python/01-strings.py)
- * [Lists](python/02-lists.py)
+ * [Strings](python/strings.py)
+ * [Lists](python/lists.py)
+
+Here's another file that we might use.
+
  * [Dict and File](python/exercise_03.py)
-
-_All exercises are from Google's Python Course and are licensed for distribution under the Apache License, Version 2.0_
 
 
 ---
