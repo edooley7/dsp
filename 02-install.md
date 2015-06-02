@@ -44,7 +44,7 @@ REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ### Homebrew
 
-If you use a Mac, you probably want to install
-[Homebrew](http://brew.sh/) if you don't have it yet. You could use
-Homebrew to manage your `git` and `python` installs as well, but the
-methods given above are very good and more cross-platform.
+If you use a Mac, install [Homebrew](http://brew.sh/) if you don't
+have it yet. You could use Homebrew to manage your `git` and `python`
+installs as well, but the methods given above are very good and more
+cross-platform.
