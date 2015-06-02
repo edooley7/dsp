@@ -19,7 +19,6 @@ Some people enjoy video content such as Khan Academy's [Probability and Statisti
 7. [Think Stats Chapter 8 Exercise 2](statistics/exercise_8.2.md) (sampling distribution)
 8. [Think Stats Chapter 8 Exercise 3](statistics/optional_exercise_8.3.md) (scoring)
 9. [Think Stats Chapter 9 Exercise 2](statistics/optional_exercise_9.2.md) (resampling)
-10. [Think Bayes Chapter 2 Exercise 1](statistics/exercise_2.1.md) (cookie eating)
 
 
 ---
