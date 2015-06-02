@@ -14,8 +14,3 @@ hours preparing with these materials.
  4. [Learn command line](04-command_line.md)
  5. [Learn Python](05-python.md)
  6. [Learn Statistics](06-statistics.md)
-
-
-**Additional Reminders**
-- Make an account in Slack (you should have recieved an invitation)
-- Request your access to Discourse
