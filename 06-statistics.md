@@ -13,30 +13,19 @@ Some people enjoy video content such as Khan Academy's [Probability and Statisti
 1. [Think Stats Chapter 2 Exercise 4](statistics/exercise_2.4.md) (Cohen's d)
 2. [Think Stats Chapter 3 Exercise 1](statistics/exercise_3.1.md) (actual vs. biased)
 3. [Think Stats Chapter 4 Exercise 2](statistics/exercise_4.2.md) (a random distribution)
-4. [Think Stats Chapter 7 Exercise 1](statistics/exercise_7.1.md) (weight vs. age)
-5. [Think Stats Chapter 8 Exercise 2](statistics/exercise_8.2.md) (sampling distribution)
-6. [Think Bayes Chapter 2 Exercise 1](statistics/exercise_2.1.md) (cookie eating)
+4. [Think Stats Chapter 5 Exercise 1](statistics/optional_exercise_5.1.md) (blue men)
+5. [Think Stats Chapter 6 Exercise 1](statistics/optional_exercise_6.1.md) (household income)
+6. [Think Stats Chapter 7 Exercise 1](statistics/exercise_7.1.md) (weight vs. age)
+7. [Think Stats Chapter 8 Exercise 2](statistics/exercise_8.2.md) (sampling distribution)
+8. [Think Stats Chapter 8 Exercise 3](statistics/optional_exercise_8.3.md) (scoring)
+9. [Think Stats Chapter 9 Exercise 2](statistics/optional_exercise_9.2.md) (resampling)
+10. [Think Bayes Chapter 2 Exercise 1](statistics/exercise_2.1.md) (cookie eating)
 
 
-### Optional Exercises
-
-1. [Think Stats Chapter 5 Exercise 1](statistics/optional_exercise_5.1.md) (blue men)
-2. [Think Stats Chapter 6 Exercise 1](statistics/optional_exercise_6.1.md) (household income)
-3. [Think Stats Chapter 8 Exercise 3](statistics/optional_exercise_8.3.md) (scoring)
-4. [Think Stats Chapter 9 Exercise 2](statistics/optional_exercise_9.2.md) (resampling)
-
-
-#### 5) The Elvis Twin Problem
+---
 
 Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin?
 
-To answer this one, you need some background information. According to the Wikipedia article on twins:
+REPLACE THIS TEXT WITH YOUR RESPONSE
 
-> "Twins are estimated to be approximately 1.9% of the world population, with monozygotic twins making up 0.2% of the total---and 8% of all twins."
-
-
-#### 6) The Locomotive Problem
-
-A railroad numbers its locomotives in order from 1 to N. One day you see a locomotive with the number 60. Estimate how many locomotives the railroad has.
-
-Think Bayes Chapter 3 actually solves this ambiguous-looking problem. It’s a pretty cool problem to solve with a Bayesian approach. Try thinking about it and coming up with an answer before looking at the chapter.
+---

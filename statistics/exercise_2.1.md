@@ -1,9 +1,3 @@
-# 6) Think Bayes Exercise 2.1
-
-Problem: [Think Bayes Chapter 2 Exercise 1](http://greenteapress.com/thinkbayes/html/thinkbayes003.html#toc22) 
-
----
+[Think Bayes Chapter 2 Exercise 1](http://greenteapress.com/thinkbayes/html/thinkbayes003.html#toc22) (cookie eating)
 
 REPLACE THIS TEXT WITH YOUR RESPONSE
-
----
