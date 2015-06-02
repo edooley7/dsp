@@ -25,7 +25,7 @@ REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
-How are Python lists and sets similar and different? Give examples of using both effectively. How does performance compare between lists and sets for finding an element. Why?
+How are Python lists and sets similar and different? Give examples of using both. How does performance compare between lists and sets for finding an element. Why?
 
 REPLACE THIS TEXT WITH YOUR RESPONSE
 
