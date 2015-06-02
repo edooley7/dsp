@@ -53,8 +53,8 @@ REPLACE THIS TEXT WITH YOUR RESPONSE
 
 The process above is designed to be accessible to anyone regardless of background. There is much more to learn about `git` and GitHub.
 
-[<img src="img/pro_git.png" title="Pro Git" width="250" />](http://git-scm.com/book/en/v2)
-
 To get a complete understanding of `git`, you should read [Pro Git](http://git-scm.com/book/en/v2). It's available free online or as a printed book.
+
+[<img src="img/pro_git.png" title="Pro Git" width="250" />](http://git-scm.com/book/en/v2)
 
 It isn't required, but you can also submit work to your forked repository by `clone`ing your fork, editing files on your machine, `add`ing them to the staging area, `commit`ting them, and `push`ing your changes back up to GitHub.
