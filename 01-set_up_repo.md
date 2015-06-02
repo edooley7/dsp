@@ -60,8 +60,3 @@ You will use the `git` Command Line Interface (CLI).
  * To get a complete understanding of `git`, you should read [Pro Git](http://git-scm.com/book/en/v2). It's available free online or as a printed book.
 
 It isn't required, but you can also submit work to your forked repository by `clone`ing your fork, editing files on your machine, `add`ing them to the staging area, `commit`ting them, and `push`ing your changes back up to GitHub.
-
-
-You'll also notice that a lot of files on GitHub have names ending in the `.md` extension. GitHub supports _markdown_ for simple text formatting. You will be fluent in markdown and use it often.
-
- * GitHub has a great [guide to markdown](https://guides.github.com/features/mastering-markdown/).
