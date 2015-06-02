@@ -12,15 +12,15 @@ Complete the following exercises to check your ability with statistics.
 
 Communicate the problem, how you solved it, and the solution, within each of the following markdown files. You can include code blocks and images within markdown, for example.
 
-1. [Think Stats Chapter 2 Exercise 4](statistics/exercise_2.4.md) (Cohen's d)
-2. [Think Stats Chapter 3 Exercise 1](statistics/exercise_3.1.md) (actual vs. biased)
-3. [Think Stats Chapter 4 Exercise 2](statistics/exercise_4.2.md) (a random distribution)
-4. [Think Stats Chapter 5 Exercise 1](statistics/optional_exercise_5.1.md) (blue men)
-5. [Think Stats Chapter 6 Exercise 1](statistics/optional_exercise_6.1.md) (household income)
-6. [Think Stats Chapter 7 Exercise 1](statistics/exercise_7.1.md) (weight vs. age)
-7. [Think Stats Chapter 8 Exercise 2](statistics/exercise_8.2.md) (sampling distribution)
-8. [Think Stats Chapter 8 Exercise 3](statistics/optional_exercise_8.3.md) (scoring)
-9. [Think Stats Chapter 9 Exercise 2](statistics/optional_exercise_9.2.md) (resampling)
+1. [Think Stats Chapter 2 Exercise 4](statistics/2-4-cohens_d.md) (Cohen's d)
+2. [Think Stats Chapter 3 Exercise 1](statistics/3-1-actual_biased.md) (actual vs. biased)
+3. [Think Stats Chapter 4 Exercise 2](statistics/4-2-random_dist.md) (a random distribution)
+4. [Think Stats Chapter 5 Exercise 1](statistics/5-1-blue_men.md) (blue men)
+5. [Think Stats Chapter 6 Exercise 1](statistics/6-1-household_income.md) (household income)
+6. [Think Stats Chapter 7 Exercise 1](statistics/7-1-weight_vs_age.md) (weight vs. age)
+7. [Think Stats Chapter 8 Exercise 2](statistics/8-2-sampling_dist.md) (sampling distribution)
+8. [Think Stats Chapter 8 Exercise 3](statistics/8-3-scoring.md) (scoring)
+9. [Think Stats Chapter 9 Exercise 2](statistics/9-2-resampling.md) (resampling)
 
 
 ---
