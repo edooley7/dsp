@@ -8,7 +8,7 @@ Read Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thin
 Some people enjoy video content such as Khan Academy's [Probability and Statistics](https://www.khanacademy.org/math/probability) or the much longer and more in-depth Harvard [Statistics 110](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo). You might also be interested in the book [Statistics Done Wrong](http://www.statisticsdonewrong.com/) or a very short [overview](http://schoolofdata.org/handbook/courses/the-math-you-need-to-start/) from School of Data.
 
 
-Complete the following exercises to check your ability with statistics.
+Complete the following exercises.
 
 Communicate the problem, how you solved it, and the solution, within each of the following markdown files. You can include code blocks and images within markdown, for example.
 
@@ -26,6 +26,15 @@ Communicate the problem, how you solved it, and the solution, within each of the
 ---
 
 Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin?
+
+REPLACE THIS TEXT WITH YOUR RESPONSE
+
+---
+
+
+---
+
+How do frequentist and Bayesian statistics compare?
 
 REPLACE THIS TEXT WITH YOUR RESPONSE
 
