@@ -10,7 +10,7 @@ these in a couple of hours.
 
 ---
 
-What does `ls` do? What do `ls -a`, `ls -l`, and `ls -lh` do? What combinations of those flags are meaningful?
+Make a cheat sheet for yourself: a list of commands and what they do, focused on things that are new, interesting, or otherwise worth remembering.
 
 REPLACE THIS TEXT WITH YOUR RESPONSE
 
@@ -19,7 +19,7 @@ REPLACE THIS TEXT WITH YOUR RESPONSE
 
 ---
 
-Make a cheat sheet for yourself: a list of commands and what they do, focused on things that are new, interesting, or otherwise worth remembering.
+What does `ls` do? What do `ls -a`, `ls -l`, and `ls -lh` do? What combinations of those flags are meaningful?
 
 REPLACE THIS TEXT WITH YOUR RESPONSE
 
