@@ -17,4 +17,5 @@ hours preparing with these materials.
 
 To go beyond the exercises here, one interesting type of project is to
 simulate a system of interest programmatically and analyze the
-simulation statistically.
+simulation statistically. You could do such a project and keep it in
+its own repo.
