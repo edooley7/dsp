@@ -14,15 +14,15 @@ Please complete and submit your answers:
 
 _Think Stats_
 
-[Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) : [Exercise 2.4](statistics/exercise_2.4.py)
+Problem - [Think Stats Chapter 2 Exercise 4](http://greenteapress.com/thinkstats2/html/thinkstats2003.html#toc24) : Your solution - [Exercise 2.4](statistics/exercise_2.4.py)
 
-[Think Stats Chapter 3 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2004.html#toc31) : [Exercise 3.1](statistics/exercise_3.1.py)
+Problem - [Think Stats Chapter 3 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2004.html#toc31) : Your solution - [Exercise 3.1](statistics/exercise_3.1.py)
 
-[Think Stats Chapter 4 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2005.html#toc41) : [Exercise 4.2](statistics/exercise_4.2.py)
+Problem - [Think Stats Chapter 4 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2005.html#toc41) : Your solution - [Exercise 4.2](statistics/exercise_4.2.py)
 
-[Think Stats Chapter 7 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2008.html#toc70) : [Exercise 7.1](statistics/exercise_7.1.py)
+Problem - [Think Stats Chapter 7 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2008.html#toc70) : Your solution - [Exercise 7.1](statistics/exercise_7.1.py)
 
-[Think Stats Chapter 8 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2009.html#toc77) : [Exercise 8.2](statistics/exercise_8.2.py)
+Problem - [Think Stats Chapter 8 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2009.html#toc77) : Your solution - [Exercise 8.2](statistics/exercise_8.2.py)
 
 
 _Think Bayes_
@@ -33,16 +33,16 @@ _Think Bayes_
 ### Optional Exercises
 
 
-#### 1) [Think Stats Chapter 5 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2006.html#toc50)
+1) [Think Stats Chapter 5 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2006.html#toc50)
 
 
-#### 2) [Think Stats Chapter 6 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2007.html#toc60)
+2) [Think Stats Chapter 6 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2007.html#toc60)
 
 
-#### 3) [Think Stats Chapter 8 Exercise 3](http://greenteapress.com/thinkstats2/html/thinkstats2009.html#toc77)
+3) [Think Stats Chapter 8 Exercise 3](http://greenteapress.com/thinkstats2/html/thinkstats2009.html#toc77)
 
 
-#### 4) [Think Stats Chapter 9 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2010.html#toc90)
+4) [Think Stats Chapter 9 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2010.html#toc90)
 
 
 #### 5) The Elvis Twin Problem
