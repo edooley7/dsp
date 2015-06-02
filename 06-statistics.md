@@ -10,20 +10,20 @@ Some people enjoy video content such as Khan Academy's [Probability and Statisti
 
 ### Required Exercises
 
-1. [Think Stats Chapter 2 Exercise 4](statistics/exercise_2.4.md)
-2. [Think Stats Chapter 3 Exercise 1](statistics/exercise_3.1.md)
-3. [Think Stats Chapter 4 Exercise 2](statistics/exercise_4.2.md)
-4. [Think Stats Chapter 7 Exercise 1](statistics/exercise_7.1.md)
-5. [Think Stats Chapter 8 Exercise 2](statistics/exercise_8.2.md)
-6. [Think Bayes Chapter 2 Exercise 1](statistics/exercise_2.1.md)
+1. [Think Stats Chapter 2 Exercise 4](statistics/exercise_2.4.md) (Cohen's d)
+2. [Think Stats Chapter 3 Exercise 1](statistics/exercise_3.1.md) (actual vs. biased)
+3. [Think Stats Chapter 4 Exercise 2](statistics/exercise_4.2.md) (a random distribution)
+4. [Think Stats Chapter 7 Exercise 1](statistics/exercise_7.1.md) (weight vs. age)
+5. [Think Stats Chapter 8 Exercise 2](statistics/exercise_8.2.md) (sampling distribution)
+6. [Think Bayes Chapter 2 Exercise 1](statistics/exercise_2.1.md) (cookie eating)
 
 
 ### Optional Exercises
 
-1. [Think Stats Chapter 5 Exercise 1](statistics/optional_exercise_5.1.md)
-2. [Think Stats Chapter 6 Exercise 1](statistics/optional_exercise_6.1.md)
-3. [Think Stats Chapter 8 Exercise 3](statistics/optional_exercise_8.3.md)
-4. [Think Stats Chapter 9 Exercise 2](statistics/optional_exercise_9.2.md)
+1. [Think Stats Chapter 5 Exercise 1](statistics/optional_exercise_5.1.md) (blue men)
+2. [Think Stats Chapter 6 Exercise 1](statistics/optional_exercise_6.1.md) (household income)
+3. [Think Stats Chapter 8 Exercise 3](statistics/optional_exercise_8.3.md) (scoring)
+4. [Think Stats Chapter 9 Exercise 2](statistics/optional_exercise_9.2.md) (resampling)
 
 
 #### 5) The Elvis Twin Problem
