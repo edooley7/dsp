@@ -8,7 +8,9 @@ Read Allen Downey's [Think Stats (second edition)](http://greenteapress.com/thin
 Some people enjoy video content such as Khan Academy's [Probability and Statistics](https://www.khanacademy.org/math/probability) or the much longer and more in-depth Harvard [Statistics 110](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo). You might also be interested in the book [Statistics Done Wrong](http://www.statisticsdonewrong.com/) or a very short [overview](http://schoolofdata.org/handbook/courses/the-math-you-need-to-start/) from School of Data.
 
 
-### Required Exercises
+Complete the following exercises to check your ability with statistics.
+
+Communicate the problem, how you solved it, and the solution, within each of the following markdown files. You can include code blocks and images within markdown, for example.
 
 1. [Think Stats Chapter 2 Exercise 4](statistics/exercise_2.4.md) (Cohen's d)
 2. [Think Stats Chapter 3 Exercise 1](statistics/exercise_3.1.md) (actual vs. biased)
