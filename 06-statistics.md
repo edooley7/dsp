@@ -14,15 +14,15 @@ Please complete and submit your answers:
 
 _Think Stats_
 
-[Think Stats Chapter 2 Exercise 4](statistics/exercise_2.4.md)
+1) [Think Stats Chapter 2 Exercise 4](statistics/exercise_2.4.md)
 
-[Think Stats Chapter 3 Exercise 1](statistics/exercise_3.1.md)
+2) [Think Stats Chapter 3 Exercise 1](statistics/exercise_3.1.md)
 
-[Think Stats Chapter 4 Exercise 2](statistics/exercise_4.2.md)
+3) [Think Stats Chapter 4 Exercise 2](statistics/exercise_4.2.md)
 
-[Think Stats Chapter 7 Exercise 1](statistics/exercise_7.1.md)
+4) [Think Stats Chapter 7 Exercise 1](statistics/exercise_7.1.md)
 
-[Think Stats Chapter 8 Exercise 2](statistics/exercise_8.2.md)
+5) [Think Stats Chapter 8 Exercise 2](statistics/exercise_8.2.md)
 
 
 _Think Bayes_
@@ -33,16 +33,17 @@ _Think Bayes_
 ### Optional Exercises
 
 
-1) [Think Stats Chapter 5 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2006.html#toc50)
+1) [Think Stats Chapter 5 Exercise 1](statistics/optional_exercise_5.1.md)
 
 
-2) [Think Stats Chapter 6 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2007.html#toc60)
+2) [Think Stats Chapter 6 Exercise 1](statistics/optional_exercise_6.1.md)
 
 
-3) [Think Stats Chapter 8 Exercise 3](http://greenteapress.com/thinkstats2/html/thinkstats2009.html#toc77)
+
+3) [Think Stats Chapter 8 Exercise 3](statistics/optional_exercise_8.3.md)
 
 
-4) [Think Stats Chapter 9 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2010.html#toc90)
+4) [Think Stats Chapter 9 Exercise 2](statistics/optional_exercise_9.2.md)
 
 
 #### 5) The Elvis Twin Problem
