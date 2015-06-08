@@ -39,7 +39,7 @@ Did you install Python 2 or 3? Why? How can you check the version of Python inst
 
 Python 2.7.10.  That was the default installed with Anaconda but I read some information about which is best, and the consensus seemed to be that 2.7 is better for beginners because there is more documentation available, which I'll definitely need.
 
-Use 'python --version' from the command line to see which version is installed.
+Use `python --version` from the command line to see which version is installed.
 
 ---
 
