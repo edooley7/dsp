@@ -83,7 +83,7 @@ Make a cheat sheet for yourself: a list of commands and what they do, focused on
 
 ---
 
->What does `ls` do? What do `ls -a`, `ls -l`, and `ls -lh` do? What combinations of those flags are meaningful?
+What does `ls` do? What do `ls -a`, `ls -l`, and `ls -lh` do? What combinations of those flags are meaningful?
 
 >`ls` lists all the files and folders contained in the folder you are currently in.  
 
