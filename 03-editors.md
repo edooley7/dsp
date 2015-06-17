@@ -31,7 +31,7 @@ Both Emacs and vim have built-in interactive tutorials that you can try.
 
 What terminal editor will you use? How did you make your decision?
 
-Nano - I like that is simple and the key commands are on the screen to follow.
+>Nano - I like that is simple and the key commands are on the screen to follow.
 
 ---
 
@@ -61,12 +61,12 @@ We will also use Jupyter (IPython) notebooks, but this does not remove the need 
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
-PyCharm.  Since Python is really the first language I am learning it seemed appropriate to use a Python based IDE. 
+>PyCharm.  Since Python is really the first language I am learning it seemed appropriate to use a Python based IDE. 
 
-PyCharm connects directly with Github which is useful.  There's also a code inspector which suggests fixes and improvements which I think will be really helful for me personally.
+>PyCharm connects directly with Github which is useful.  There's also a code inspector which suggests fixes and >improvements which I think will be really helful for me personally.
 
-Double clicking Shift searches everywhere and lets you navigate places. ⌘ Slash comments out a line.  ⌘ F is for find. fn F1 brings up Documentation. CTRL-R runs the program.  
+>Double clicking Shift searches everywhere and lets you navigate places. ⌘ Slash comments out a line.  ⌘ F is for >find. fn F1 brings up Documentation. CTRL-R runs the program.  
 
-You can customize the editor through the default settings menu.  You can change color schemes, fonts, code styles (tabs and spaces), etc. 
+>You can customize the editor through the default settings menu.  You can change color schemes, fonts, code styles >(tabs and spaces), etc. 
 
 ---
