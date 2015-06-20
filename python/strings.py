@@ -77,10 +77,8 @@ verbing('do')
     
 
 def not_bad(s):
-	str1 = "not"
-	str2 = "bad"
-	not_index = s.find(str1)
-	bad_index = s.find(str2)
+	not_index = s.find("not")
+	bad_index = s.find("bad")
 	
 	if not_index < bad_index:
 		print s[0:not_index] + "good" + s[bad_index + 3:]
