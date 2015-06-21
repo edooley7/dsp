@@ -18,7 +18,7 @@ These exercises are implemented with doctests, which are runnable tests inside d
 
 How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
 
-REPLACE THIS TEXT WITH YOUR RESPONSE
+>Lists can be changed, tuples cannot (although you could create a new tuple using parts of the old tuple.) Tuples can be keys in dictionaries, lists cannot.  Dictionary keys must be immutable, and lists are mutable.
 
 ---
 
@@ -27,7 +27,8 @@ REPLACE THIS TEXT WITH YOUR RESPONSE
 
 How are Python lists and sets similar and different? Give examples of using both. How does performance compare between lists and sets for finding an element. Why?
 
-REPLACE THIS TEXT WITH YOUR RESPONSE
+>Lists maintain order, while sets do not.  Items in a set must be immutable, items in a list do not have to be.  Sets cannot have duplicate values, lists can. I would use a list if I had something that had to be kept in order or had duplicate values, otherwise I would use a set.  
+
 
 ---
 
