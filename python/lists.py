@@ -52,35 +52,7 @@ def middle_of_list(listed):
 
 
 def sort_last(tuples):
-	switched_list = []
-	listed = map(list, tuples)
-	
-	for i in range(0,len(listed)):
-		first = listed[i][0]
-		last = listed[i][-1]
-		middle = listed[i][1]
-		if len(listed[i]) == 2:
-			switched = last, first
-			switched_list.append(list(switched))
-		else:
-			switched = last, middle, first
-			switched_list.append(list(switched))
-	switched_sorted_list = sorted(switched_list)
-	
-
-	final_list = []
-	
-	for i in range(0, len(switched_sorted_list)):
-		first_new = switched_sorted_list[i][0]
-		last_new = switched_sorted_list[i][-1]
-		middle_new = middle_of_list(switched_sorted_list[i])
-		if middle_new != None:
-			switched_back = last_new, middle_new, first_new
-		else:
-			switched_back = last_new, first_new
-		final_list.append(list(switched_back))
-	
-	print final_list
+	print sorted(tuples, key=lambda tup: tup[-1])
 
 sort_last([(1, 3), (3, 2), (2, 1)])
 sort_last([(2, 3), (1, 2), (3, 1)])
