@@ -29,7 +29,18 @@ How are Python lists and sets similar and different? Give examples of using both
 
 >Lists maintain order, while sets do not.  Items in a set must be immutable, items in a list do not have to be.  Sets cannot have duplicate values, lists can. I would use a list if I had something that had to be kept in order or had duplicate values, otherwise I would use a set.  
 
+For example:
+```
+list1 = [1, 1, 2, 5, 4]
+set1 = set(list1)
+```
+Results in:
+```
+[1, 1, 2, 5, 4]
+set([1, 2, 4, 5])
+```
 
+>Sets are faster for finding an element because there aren't any duplicates.
 ---
 
 
@@ -37,7 +48,7 @@ How are Python lists and sets similar and different? Give examples of using both
 
 Describe Python's `lambda`. What is it, and what is it used for? Give at least one example, including an example of using a `lambda` in the `key` argument to `sorted`.
 
-REPLACE THIS TEXT WITH YOUR RESPONSE
+>Lambda is a way to create a quick throwaway function.  
 
 ---
 
@@ -46,8 +57,56 @@ REPLACE THIS TEXT WITH YOUR RESPONSE
 
 Explain list comprehensions. Give examples and show equivalents with `map` and `filter`. How do their capabilities compare? Also demonstrate set comprehensions and dictionary comprehensions.
 
-REPLACE THIS TEXT WITH YOUR RESPONSE
+>List comprehensions are a quick way to create a new list.  You could use a list comprehension to create a list where each element is the result of an operation on a range. 
 
+```
+list1 = [1, 2, 3, 4, 5]
+
+#Regular (squares all items in list)
+def regular(s):
+	squared_list = []
+	for x in s:
+		squared_list.append(x**2)
+	return squared_list
+		
+#List Comprehension (squares all items in list)
+def list_comprehension(s):
+	squared_list = [x**2 for x in s]
+	return squared_list
+	
+#Map (squares all items in list)
+def map_test(s):
+	squared_list = map(lambda x: x**2, s)
+	return squared_list
+	
+#Filter (finds items in s that are even)
+def filter_test(s):
+	even_list = filter(lambda x: x%2 == 0, s)
+	return even_list
+
+print regular(list1)
+print list_comprehension(list1)
+print map_test(list1)
+print filter_test(list1)
+```
+
+```
+#Set Comprehension
+set1 = set(list1)
+
+def set_comprehension(s):
+	squared_set = {x**2 for x in s}
+	return squared_set
+	
+print set_comprehension(set1)
+
+#Dictionary Comprehension
+def dict_comprehension(s):
+	squared_dict = {x: x**2 for x in set1}
+	return squared_dict
+	
+print dict_comprehension(set1)
+```
 ---
 
 
