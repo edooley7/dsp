@@ -61,4 +61,4 @@ Firsts weight is on average 0.124761 less than others
 Cohen's d is: -0.088673 standard deviations
 ```
 
-Solution: On average, first babies are 0.125 pounds lighter than other babies. The effect size, using Cohen's d, is 0.089 standard deviations.  For comparison, the Cohen's d is 0.029 standard deviations.
+Solution: On average, first babies are 0.125 pounds lighter than other babies. The effect size, using Cohen's d, is -0.089 standard deviations.  For comparison, the Cohen's d for pregnancy length is 0.029 standard deviations and pregnancy length for first babies is on average 0.078 weeks longer than other babies .  The difference in Cohen's d between weight and pregnancy length means that the difference in weight between first and other babies is more significant than the difference in pregnancy length between the two groups.  
