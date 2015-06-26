@@ -27,25 +27,28 @@ Communicate the problem, how you solved it, and the solution, within each of the
 
 Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin?
 
-From Wikipedia:
+>From Wikipedia:
 "The twin birth rate in the United States rose 76% from 1980 through 2009, from 18.9 to 33.3 per 1,000 births."
 "Monozygotic twinning occurs in birthing at a rate of about three in every 1000 deliveries worldwide."
 
-Assuming twin birth rate in the US was the same in 1935 as it was in 1980 (probably not a valid assumption, but may be close enough to use), and given the above information:
+>Assuming twin birth rate in the US was the same in 1935 as it was in 1980 (probably not a valid assumption, but may be close enough to use), and given the above information:
 
-P(A|B) = Probability Elvis was an identical twin, given that he was a twin.
-P(A) = probability Elivs was an identical twin = 0.3%
-P(B) = probability Elvis was any type of twin = 1.89%
-P(B|A) = probability Elvis was any type of twin, given that he was an identical twin = 100%
+>P(A|B) = Probability Elvis was an identical twin, given that he was a twin.
+
+>P(A) = probability Elivs was an identical twin = 0.3%
+
+>P(B) = probability Elvis was any type of twin = 1.89%
+
+>P(B|A) = probability Elvis was any type of twin, given that he was an identical twin = 100%
 
 
-Using Bayes theorem:
+>Using Bayes theorem:
+```
 p(A|B) = (p(A) p(B|A)) / p(B)
-
 p(A|B) = (.003 * 1) / .0189
 p(A|B) = 0.1587 = 15.87%
-
-Code:
+```
+>Code:
 ```
 def Bayes(prob_a, prob_b, prob_bgivena):
     prob_agivenb = (prob_a * prob_bgivena)/prob_b
