@@ -23,7 +23,7 @@ thinkplot.Show(xlabel='random #', ylabel='CDF', loc = 'lower right')
 ```
 
 Solution:
-Looking at the graph for the CDF of the random numbers generated, the uniform is very uniform, since the CDF is pretty much a straight line.
+Looking at the graph for the CDF of the random numbers generated, the distribution is very uniform, since the CDF is pretty much a straight line.
 
 [PMF of random numbers](http://i.imgur.com/5PfOMea.png)
 
