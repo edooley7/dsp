@@ -70,8 +70,8 @@ Output:
 RMSE: 1.37549990912
 Mean error: 0.004
 90% confidence interval:  (0, 5)
-[PMF of goal scoring rate](http://i.imgur.com/zkcoQrF.png)
 ```
+[PMF of goal scoring rate](http://i.imgur.com/zkcoQrF.png)
 
 Solution:
 Standard error when lam = 2 with 1000 trials is 1.38 and sampling error is 0.004.  When trials are increased to 10000, mean error is below 0, meaning that this sample is unbiased.
