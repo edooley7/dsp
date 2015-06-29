@@ -62,6 +62,6 @@ Bayes(.003, .0189, 1)
 
 How do frequentist and Bayesian statistics compare?
 
-REPLACE THIS TEXT WITH YOUR RESPONSE
+Frequentist stats finds the probability the null hypothesis is true.  Bayesian uses prior knowledge to find the probability that the hypothesis is true.
 
 ---
